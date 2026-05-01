@@ -14,7 +14,3 @@ The project focuses on processing discrete signals to identify dominant frequenc
 The Discrete Fourier Transform (DFT) is defined as:
 $$X(k) = \sum_{n=0}^{N-1} x(n) \cdot e^{-j \frac{2\pi}{N} nk}$$
 
-## 💻 How to Use
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YourUsername/MATLAB-FFT-Project.git](https://github.com/YourUsername/MATLAB-FFT-Project.git)
